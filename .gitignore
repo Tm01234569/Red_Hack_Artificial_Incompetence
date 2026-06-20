@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# YOLO / ML model weights (too large for GitHub — download on first run)
+*.pt
+*.onnx
+*.engine
+weights/
+
+# Sim runtime output
+*.log
